@@ -2,7 +2,7 @@
 [website]: https://mjthefox.com
 
 
-**Hi! I'm Michael Sipes✌️**, a student at the University of Southern California's Viterbi School of Engineering. My passion lies in astrophotography, aerial cinematography, and finding ways to use technology to learn more about our world - check out my website, [mjthefox.com](website) to see some of my work. 
+**Hi! I'm Michael Sipes✌️**, a student at University of Southern California's Viterbi School of Engineering. My passion lies in astrophotography, aerial cinematography, and finding ways to use technology to learn more about our world - check out my website, [mjthefox.com](website) to see some of my work. 
 I tend to respond to [emails](email) quickly, and I am always open to chat!
 
 - 📌 Los Angeles, CA - United States
