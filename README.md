@@ -5,7 +5,9 @@
 Hello, I am a student at University of Southern California's Viterbi School of Engineering. 
 
 My passion lies in astrophotography, aerial cinematography, and finding ways to use technology to learn more about our world.
+
 Check out my website, [mjthefox.com](website) to see some of my work. 
+
 Email me at [mjsipes@gmail.com](email).
 
 
