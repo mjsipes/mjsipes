@@ -1,6 +1,6 @@
 [email]: mailto:<mjsipes@gmail.com>
 [website]: https://mjthefox.com
-<img width="803" alt="image" src="https://github.com/user-attachments/assets/1d61a9ff-4033-45be-b536-57b5e791a8f6">
+<img width="1308" alt="image" src="https://github.com/user-attachments/assets/11897971-52ce-4b33-8f28-304fb2a31a4c">
 
 
 Hello, I am a student at University of Southern California's Viterbi School of Engineering. 
