@@ -10,6 +10,8 @@ Check out my website, [mjthefox.com](website) to see some of my work.
 
 Email me at [mjsipes@gmail.com](email).
 
+Pinned repositories are a result of my own work and curiosity.
+
 
 
 
