@@ -1,3 +1,4 @@
+<!-- 
 [email]: mailto:<mjsipes@gmail.com>
 [website]: https://mjthefox.com
 
@@ -11,9 +12,24 @@ Check out my website, [mjthefox.com](website) to see some of my work.
 Email me at [mjsipes@gmail.com](email).
 
 Pinned repositories are a result of my own work and curiosity.
+ -->
 
 
 
+<!-- Adding background color to a section using inline HTML -->
+<div style="background-color: #ffcccc; padding: 10px; border-radius: 5px;">
+
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/7b15a703-8cdf-47f2-8e6a-bbd5b12ca6ae">
+
+Hello, I am a student at University of Southern California's Viterbi School of Engineering. 
+
+Check out my website, [mjthefox.com](website) to see some of my work. 
+
+Email me at [mjsipes@gmail.com](email).
+
+Pinned repositories are a result of my own work and curiosity.
+
+</div>
 
 
 
