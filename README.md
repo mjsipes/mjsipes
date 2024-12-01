@@ -6,11 +6,14 @@
 
 Hello, I am a student at University of Southern California's Viterbi School of Engineering. 
 
-Check out my website, [mjthefox.com](website) to see some of my work. 
+I am looking for a summer internship for Summer 2025 before I begin my masters program in computer science from August 2025 - May 2026.
+
+Pinned repositories are a result of my own work and curiosity.
+
+Additionally, I enjoy astrophotography. Check out my website, [mjthefox.com](website) to see some of my work.
 
 Email me at [mjsipes@gmail.com](email).
 
-Pinned repositories are a result of my own work and curiosity.
 
 
 
