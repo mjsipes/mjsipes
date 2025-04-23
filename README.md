@@ -6,11 +6,11 @@
 
 Hello, I am a student at University of Southern California's Viterbi School of Engineering.
 
-Check out my website, mjthefox.com to see some of my work.
-
-Email me at mjsipes@gmail.com.
-
 Pinned repositories are a result of my own work and curiosity.
+
+Email: mjsipes@gmail.com
+LinkedIn: https://www.linkedin.com/in/mjthefox/
+
 
 
 
