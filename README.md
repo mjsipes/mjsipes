@@ -6,4 +6,4 @@
 
 Hello, I am a student at University of Southern California's Viterbi School of Engineering.
 
-Pinned repositories are a result of my own work and curiosity.
+My pinned projects are original work — guided by curiosity and built with a mix of coding by hand and coding in natural language with AI.
