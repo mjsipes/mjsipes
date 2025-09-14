@@ -7,3 +7,5 @@
 Hello! I'm a student at the University of Southern California's Viterbi School of Engineering.
 
 My pinned projects are original work — guided by curiosity and built with a mix of hand-written code and natural language programming with AI.
+
+LinkedIn = https://www.linkedin.com/in/mjsipes/
