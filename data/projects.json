@@ -1,0 +1,50 @@
+[
+  {
+    "name": "layers4",
+    "repo": "https://github.com/mjsipes/layers4",
+    "liveUrl": "https://layers4.vercel.app/",
+    "filepath": "projects/layers4.md"
+  },
+  {
+    "name": "drawtunes",
+    "repo": "https://github.com/mjsipes/drawtunes",
+    "liveUrl": "https://drawtunes.vercel.app/",
+    "filepath": "projects/drawtunes.md"
+  },
+  {
+    "name": "f1racersipes-react",
+    "repo": "https://github.com/mjsipes/f1racersipes-react",
+    "liveUrl": "https://www.f1racersipes.com/",
+    "filepath": "projects/f1racersipes-react.md"
+  },
+  {
+    "name": "lingo-llm",
+    "repo": "https://github.com/mjsipes/lingo-llm",
+    "liveUrl": "https://lingo-llm.vercel.app/",
+    "filepath": "projects/lingo-llm.md"
+  },
+  {
+    "name": "mjthefox",
+    "repo": "https://github.com/mjsipes/mjthefox",
+    "liveUrl": "https://mjthefox.com/",
+    "filepath": "projects/mjthefox.md"
+  },
+  {
+    "name": "pytorch_notebooks",
+    "repo": "https://github.com/mjsipes/pytorch_notebooks",
+    "liveUrl": null,
+    "filepath": "projects/pytorch_notebooks.md"
+  },
+  {
+    "name": "stock_algorithms",
+    "repo": "https://github.com/mjsipes/stock_algorithms",
+    "liveUrl": "https://stock-algorithms.vercel.app/",
+    "filepath": "projects/stock_algorithms.md"
+  },
+  {
+    "name": "tennis",
+    "repo": "https://github.com/mjsipes/tennis",
+    "liveUrl": "https://tennis-sipes.vercel.app/",
+    "filepath": "projects/tennis.md"
+  }
+]
