@@ -8,6 +8,8 @@ import FaviconFlicker, {
 } from "@/components/FaviconFlicker";
 import LayeredMedia from "@/components/LayeredMedia";
 import ContributionGraphWrapper from "@/components/ContributionGraphWrapper";
+import { Education } from "@/components/Education";
+import { Experience } from "@/components/Experience";
 import { getProjects } from "@/lib/projects";
 
 // Project descriptions
@@ -45,6 +47,10 @@ export default function Home() {
         </div>
 
         <ContributionGraphWrapper />
+
+        <Education />
+
+        <Experience />
 
         <div className="w-full max-w-4xl">
           <h2 className="text-2xl font-bold mb-4">Projects</h2>

@@ -1,0 +1,139 @@
+% Michael Sipes Resume
+% 2025-08-29
+% mjsipes@gmail.com
+% 10 Horseshoe Ct, Hillsborough, CA, 94010
+% 650-766-4063
+% (650) 766-4063
+% https://github.com/mjsipes
+% https://www.linkedin.com/in/mjsipes
+
+% pdflatex michael_sipes_resume.tex
+
+\documentclass[a4paper,10pt]{article}
+\usepackage{enumitem}
+\usepackage{hyperref}
+\usepackage{geometry}
+\geometry{left=0.6in, right=0.5in, top=0.5in, bottom=0.5in}
+\pagestyle{empty}
+
+\begin{document}
+
+% Name and Contact Information
+\noindent
+\begin{center}
+    \textbf{\huge Michael Sipes} \\
+    \vspace{5pt}
+    \href{https://github.com/mjsipes}{GitHub} $|$ 
+    \href{https://www.linkedin.com/in/mjthefox}{LinkedIn} $|$ 
+    \href{mailto:mjsipes@gmail.com}{mjsipes@gmail.com} $|$ 
+    (650) 766-4063
+\end{center}
+
+% Education
+\section*{Education}
+\noindent
+\textbf{University of Southern California} \\
+\textit{M.S. in Computer Science} \hfill 2025 - 2026 \\
+\textit{B.S. in Computer Science} \hfill 2021 - 2025
+
+
+% \noindent \textbf{GPA:} 3.54 \\
+\noindent \textbf{Relevant Coursework:} Artificial Intelligence, Machine Learning, Operating Systems, Internetworking, Database Systems, Web Technologies, Software Engineering, Computer Systems, Analysis of Algorithms, Data Structures \\
+\noindent \textbf{Languages:} C++, C, Python, Java, JavaScript, TypeScript, HTML, CSS, SQL, Bash, Markdown, LaTeX, Assembly \\
+\noindent \textbf{Frameworks / Technologies:} React, Next.js, OpenAI API, Vercel AI SDK, Supabase, Zustand, Tailwind CSS, shadcn/ui, PyTorch, RESTful APIs, Docker, Git, Vercel, Vite, npm, HTTPie 
+% Experience
+\section*{Experience}
+
+\noindent
+\textbf{RingCentral} \\
+\textit{AI Software Engineering Intern} \hfill June 2024 - August 2024
+\begin{itemize}[leftmargin=*, noitemsep, topsep=0pt]
+    \item Built a retrieval-augmented generation system to detect and consolidate duplicate content across a knowledge base of 2,000+ articles.
+    \item Conducted interviews with article writers, understood their workflow challenges, and defined technical requirements for the solution.
+    \item Implemented the solution by generating semantic embeddings with OpenAI and storing them in Supabase (pgvector extension) to enable similarity search.
+\end{itemize}
+
+% Academic Projects
+\section*{Academic Projects}
+
+\noindent
+\textbf{DrawTunes} \hfill \href{https://drawtunes.vercel.app/}{Live Demo} $|$ \href{https://github.com/mjsipes/drawtunes}{GitHub}
+\begin{itemize}[leftmargin=*, noitemsep, topsep=0pt]
+    \item Built AI-powered music discovery platform where users draw artwork to receive personalized song recommendations using React, TypeScript, and Supabase edge functions.
+    \item Refactored state management migration from React Context to Zustand, reducing unnecessary re-renders and optimizing performance across interconnected components.
+    \item Implemented modular serverless architecture processing image uploads through OpenAI Vision API and iTunes API integration for real-time music recommendation delivery.
+\end{itemize}
+
+\vspace{10pt}
+\noindent
+\textbf{Layers} \hfill \href{https://layers4.vercel.app/}{Live Demo} $|$ \href{https://github.com/mjsipes/layers4}{GitHub}
+\begin{itemize}[leftmargin=*, noitemsep, topsep=0pt]
+    \item Built AI-powered skiing outfit recommendation app that learns from user feedback to provide personalized clothing recommendations based on personal comfort data and weather conditions.
+    \item Implemented dual interface architecture where both traditional UI and AI chat perform identical database operations, ensuring feature parity and consistent user experience across interaction modes.
+    \item Integrated real-time weather data and location services to automatically adjust recommendations based on current conditions at user's ski resort.
+\end{itemize}
+
+\vspace{10pt}
+
+\noindent
+\textbf{Mjsipes Photography} \hfill \href{https://mjthefox.com/}{Live Demo} $|$ \href{https://github.com/mjsipes/mjthefox}{GitHub}
+\begin{itemize}[leftmargin=*, noitemsep, topsep=0pt]
+    \item Built personal photography portfolio using Next.js and Supabase Storage to match Squarespace display quality while adding AI-generated artistic reinterpretations of 300 personal photographs.
+    \item Implemented dynamic page routing and metadata database architecture designed for experimental workflows, tracking relationships between original photos and AI style variations.
+    \item Implemented automated image processing pipeline using Node.js scripts and OpenAI Images API to generate 1,800 style-transfer variations across 6 artistic styles.
+\end{itemize}
+
+\vspace{10pt}
+
+\noindent
+\textbf{Tennis Probability Model} \hfill \href{https://tennis-sipes.vercel.app/}{Live Demo} $|$ \href{https://github.com/mjsipes/tennis}{GitHub}
+\begin{itemize}[leftmargin=*, noitemsep, topsep=0pt]
+    \item Built tennis match simulator using recursive probability algorithms in Python to analyze win probabilities across different match formats and player skill levels.
+    \item Implemented dynamic probability calculations tracking game state transitions, serving advantages, and point importance scoring throughout match progression.
+    \item Implemented statistical analysis framework demonstrating that point importance varies dramatically based on match context, with late-game points having exponentially higher impact on match outcomes.
+\end{itemize}
+
+% \noindent
+% \textbf{Lingo LLM} \hfill \href{https://lingo-llm.vercel.app/}{Live Demo} $|$ \href{https://github.com/mjsipes/lingo-llm}{GitHub}
+% \begin{itemize}[leftmargin=*, noitemsep, topsep=0pt]
+%     \item Built multi-agent AI language learning platform using React, TypeScript, and Supabase orchestrating Claude, OpenAI, and Groq APIs through specialized anthropomorphic characters for children's Spanish education.
+%     \item Implemented intelligent context management system with smart conversation summarization and selective message persistence to maintain character awareness without overwhelming AI models.
+%     \item Implemented modular agent architecture where specialized characters handle distinct capabilities (translation, image generation, storytelling) while maintaining seamless user experience through coordinated AI responses.
+% \end{itemize}
+
+% \vspace{10pt}
+
+% \noindent
+% \textbf{F1Racer Sipes} \hfill \href{https://www.f1racersipes.com/}{Live Demo} $|$ \href{https://github.com/mjsipes/f1racersipes-react}{GitHub}
+% \begin{itemize}[leftmargin=*, noitemsep, topsep=0pt]
+%     \item Built multiplayer racing game using React and Supabase for live competition between players.
+%     \item Implemented real-time synchronization using Supabase Realtime channels for instant game state updates across all connected players.
+%     \item Implemented secure user authentication and PostgreSQL database integration, deployed to Vercel for production hosting.
+% \end{itemize}
+
+% \vspace{10pt}
+
+% \noindent
+% \textbf{Stock Algorithms: An Exploration} \hfill \href{https://stock-algorithms.vercel.app/}{Live Demo} $|$ \href{https://github.com/mjsipes/stock_algorithms}{GitHub}
+% \begin{itemize}[leftmargin=*, noitemsep, topsep=0pt]
+%     \item Built quantitative trading analysis system using Python comparing perfect foresight vs. greedy algorithms across stocks and cryptocurrencies.
+%     \item Implemented minute-by-minute trading simulation achieving 10.75\% daily returns on Apple and 35.44\% on Dogecoin, demonstrating volatility impact on performance.
+%     \item Implemented comprehensive fee analysis revealing that high-frequency trading costs (600 trades/day at 0.1\% fees) eliminate profits in real-world scenarios.
+% \end{itemize}
+
+% \vspace{10pt}
+
+% \noindent
+% \textbf{PyTorch Deep Learning Notebooks} \hfill \href{https://github.com/mjsipes/pytorch_notebooks}{GitHub}
+% \begin{itemize}[leftmargin=*, noitemsep, topsep=0pt]
+%     \item Built PyTorch experimentation notebooks exploring neural network fundamentals through custom implementations of linear regression, matrix regression, and polynomial feature engineering models.
+%     \item Implemented controlled experiments investigating gradient behavior with random noise injection and parameter initialization strategies, analyzing training dynamics across different model architectures.
+%     \item Implemented mathematical exploration into non-linear function approximation using ReLU activation functions, studying the relationship between model complexity and function fitting accuracy.
+% \end{itemize}
+
+% Honors
+\section*{Honors}
+\noindent
+Sydney Harmon Academy for Polymathic Study Fellow 2025, Effective Altruism Fellow 2022
+
+\end{document}
