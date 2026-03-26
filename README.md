@@ -7,7 +7,7 @@
 Hello! I'm a student at the University of Southern California's Viterbi School of Engineering.
 
 My pinned projects are original work — guided by curiosity and built with a mix of hand-written code and natural language programming with AI.
-
+<!--
 |  | Project | Language | Started | Updated | Commits |
 |:--:|---|---:|---:|---:|---:|
 | ❄️🎿 | [layers4](https://github.com/mjsipes/layers4) | TypeScript | 2025-07-12 | 2025-09-02 | 318 |
@@ -16,3 +16,4 @@ My pinned projects are original work — guided by curiosity and built with a mi
 | 🏁🏎️ | [f1racersipes-react](https://github.com/mjsipes/f1racersipes-react) | JavaScript | 2024-08-05 | 2025-06-22 | 78 |
 | 🎾📈 | [tennis](https://github.com/mjsipes/tennis) | Jupyter Notebook | 2024-06-17 | 2025-05-10 | 19 |
 | 🔥📓 | [pytorch_notebooks](https://github.com/mjsipes/pytorch_notebooks) | Jupyter Notebook | 2024-08-04 | 2024-09-09 | 45 |
+-->
