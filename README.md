@@ -10,20 +10,14 @@ My pinned projects are original work — guided by curiosity and built with a mi
 
 LinkedIn = https://www.linkedin.com/in/mjsipes/
 
+
 ## Projects
 
-- 🧪 **fox-lab** — recruiting + workflows + automation experiments
-  https://github.com/mjsipes/fox-lab
-- 🦊 **mjthefox.com** — personal site
-  https://github.com/mjsipes/mjthefox
-- 🧠 **lingo-llm** — LLM language learning experiments
-  https://github.com/mjsipes/lingo-llm
-- 🧱 **layers4** — UI / interaction experiments
-  https://github.com/mjsipes/layers4
-- 🏞️ **park-trekker** — outdoors / park exploration project
-  https://github.com/mjsipes/park-trekker
-- 🔌 **vercel-mcp** — MCP-related work
-  https://github.com/mjsipes/vercel-mcp
-
-*(If you want, tell me the exact projects + one-line blurbs you want featured, and I’ll swap these to match your current priorities.)*
-
+| Project | Language | |
+|---|---:|:--:|
+| [layers4](https://github.com/mjsipes/layers4) | TypeScript | <span style="color:#3178c6">●</span> |
+| [mjthefox](https://github.com/mjsipes/mjthefox) | TypeScript | <span style="color:#3178c6">●</span> |
+| [DrawTunes](https://github.com/mjsipes/DrawTunes) | TypeScript | <span style="color:#3178c6">●</span> |
+| [f1racersipes-react](https://github.com/mjsipes/f1racersipes-react) | JavaScript | <span style="color:#f1e05a">●</span> |
+| [tennis](https://github.com/mjsipes/tennis) | Jupyter Notebook | <span style="color:#DA5B0B">●</span> |
+| [pytorch_notebooks](https://github.com/mjsipes/pytorch_notebooks) | Jupyter Notebook | <span style="color:#DA5B0B">●</span> |
